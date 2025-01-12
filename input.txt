@@ -1,0 +1,137 @@
+import mathematics.h
+import everything.h
+
+MAIN:
+START
+
+	FLOAT x EOL
+	
+	INTEGER a,b,c EOL
+	a ASSIGN 2 EOL
+	b ASSIGN 1 EOL
+	c ASSIGN 5 EOL
+	b ASSIGN a EOL
+	
+	INTEGER x EOL
+	INTEGER x EOL
+	
+	
+	READ(a) EOL
+	PRINT(a) EOL
+	
+	DEFINE A(INTEGER x,y) 
+	START
+		INTEGER x,y EOL 
+		x ASSIGN 3 EOL
+		y ASSIGN 6 EOL
+
+		x PLUS y EOL
+	END
+	CLASS C
+	START
+		INTEGER X,Y EOL
+	END
+
+	CLASS D:C
+	START
+		CHAR D EOL
+	END
+
+
+
+	IF (b GT a)
+	START
+		IF (c EQ 5)
+			START
+		            a PLUS b EOL
+		        END
+	    	ELSE
+		        START
+		            a MINUS b EOL
+		        END
+	    	EOL 
+	END
+	ELSE
+		START
+            		a MUL b EOL
+        	END
+    	EOL 
+		
+		
+		
+	INTEGER i EOL
+	i ASSIGN 9 EOL
+
+	SWITCH ( 3 )
+	START
+	CASE 1 :
+		a PLUS b EOL 
+		BREAK EOL
+	PLUS
+	CASE 2 :
+		b PLUS c EOL
+	        BREAK EOL
+	PLUS
+	CASE 3 : 
+		a PLUS c EOL
+		BREAK EOL
+	DEFAULT :
+		c PLUS i EOL
+	        BREAK EOL
+	END
+
+	FOR (1,5,1)
+	START
+	   a ASSIGN a MUL c EOL
+	END
+
+	WHILE(5,8)
+	START
+	   a ASSIGN a MUL c EOL
+	END
+
+	2 LT 3 EOL
+
+	3 GT 5 EOL
+
+	2 EQ 3 EOL
+
+	3 EQ 3 EOL
+
+	2 GTE 2 EOL
+
+	1 LTE 0 EOL
+
+	BitNOT 5 EOL 
+	45 BitXOR 89 EOL
+	34 BitOR 22 EOL 
+	23 BitAND 45 EOL
+
+	FACTORIAL(7) EOL
+	ODD_EVEN(9) EOL
+	VALUE(a) EOL
+	LOG10(100) EOL
+	LOG(16) EOL
+	
+	SIN(30) EOL
+	COS(30) EOL
+	TAN(30) EOL
+	COSEC(30) EOL
+	SEC(30) EOL
+	COT(30) EOL
+	BIGMOD(1252,121544,2345) EOL
+	
+	4 PLUS 9 EOL
+	5 MINUS 2 EOL
+	7 MUL 9 EOL
+	20 DIV 5 EOL
+	45 MOD 7 EOL
+	2 POW 4 EOL
+	3 INC EOL
+	6 DEC EOL
+	
+	6 PLUS 56 MINUS 67 EOL
+
+	34 MUL 7 DIV 11 MOD 5 EOL
+	
+END	

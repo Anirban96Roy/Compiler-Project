@@ -1,0 +1,278 @@
+Header Library Declared Here
+Header Library Declared Here
+
+Float declaration
+
+Interger declaration
+
+Number :  2
+
+Value of the variable: 2
+
+Number :  1
+
+Value of the variable: 1
+
+Number :  5
+
+Value of the variable: 5
+
+Value of the variable: 5
+
+Interger declaration
+
+Interger declaration
+Enter value for f: Displayed value of f: 5
+
+Interger declaration
+
+Interger declaration
+
+Number :  3
+
+Value of the variable: 3
+
+Number :  6
+
+Value of the variable: 6
+
+Addition of 6 and 6 is 12 
+
+Function declaration
+
+Interger declaration
+
+Class declaration
+
+Character declaration
+
+Inheritance occur 
+
+6 is not greater than 6
+
+Number :  5
+
+6 is not equal to 5
+
+Addition of 5 and 5 is 10 
+
+Subtraction of 5 and 5 is 0 
+ 
+Value of expression in ELSE: 5
+
+Multiplication of 5 and 5 is 25
+ 
+Value of expression in ELSE: 5
+
+Interger declaration
+
+Number :  9
+
+Value of the variable: 9
+
+Addition of 1 and 1 is 2 
+
+Addition of 2 and 2 is 4 
+
+Addition of 3 and 3 is 6 
+
+Addition of 3 and 3 is 6 
+
+SWITCH CASE declaration
+Finally choose case number :-> 3
+
+Multiplication of 1 and 1 is 1
+ 
+Value of the variable: 1
+
+FOR loop execution
+Value of the  i: 1 expression value : 3
+Value of the  i: 2 expression value : 3
+Value of the  i: 3 expression value : 3
+Value of the  i: 4 expression value : 3
+
+Multiplication of 8 and 8 is 64
+ 
+Value of the variable: 64
+
+WHILE loop execution
+Value of the loop: 5 expression value: 1
+Value of the loop: 6 expression value: 1
+Value of the loop: 7 expression value: 1
+
+Number :  2
+
+Number :  3
+
+2 is less than 3
+
+Number :  3
+
+Number :  5
+
+3 is not greater than 5
+
+Number :  2
+
+Number :  3
+
+2 is not equal to 3
+
+Number :  3
+
+Number :  3
+
+3 is equal to 3
+
+Number :  2
+
+Number :  2
+
+2 is greater than or equal to 2
+
+Number :  1
+
+Number :  0
+
+1 is not less than or equal to 0
+
+Number :  5
+
+Bitwise NOT of 5 is -6
+ 
+Number :  45
+
+Number :  89
+
+Bitwise XOR of 45 and 89 is 116
+ 
+Number :  34
+
+Number :  22
+
+Bitwise OR of 34 and 22 is 54
+ 
+Number :  23
+
+Number :  45
+
+Bitwise AND of 23 and 45 is 5
+ 
+FACTORIAL declaration
+FACTORIAL of 7  : 5040
+
+Determining odd or even number
+Number : 9  -> Odd
+
+Print expression 9
+
+Number :  100
+
+Value of Log10(100) is 2.000000
+
+Number :  16
+
+Value of Log(16) is 2.772589
+
+Number :  30
+
+Value of Sin(30) is 0.500001
+
+Number :  30
+
+Value of Cos(30) is 0.866025
+
+Number :  30
+
+Value of Tan(30) is 0.577352
+
+Number :  30
+
+Value of Cosec(30) is 1.999996
+
+Number :  30
+
+Value of Sec(30) is 1.154701
+
+Number :  30
+
+Value of Cot(30) is 1.732046
+
+Number :  1252
+
+Number :  121544
+
+Number :  2345
+
+Bigmod of 1252 ^ 121544 MOD 2345 is = 1121
+
+Number :  4
+
+Number :  9
+
+Addition of 4 and 9 is 13 
+
+Number :  5
+
+Number :  2
+
+Subtraction of 5 and 2 is 3 
+ 
+Number :  7
+
+Number :  9
+
+Multiplication of 7 and 9 is 63
+ 
+Number :  20
+
+Number :  5
+
+Division of 20 and 5 is 4
+
+Number :  45
+
+Number :  7
+
+Mod of 45 and 7 is 3
+
+Number :  2
+
+Number :  4
+
+Power of 2 and 4 is 2
+
+Number :  3
+
+Increment of 3 is 4
+
+Number :  6
+
+Decrement of 6 is 5
+
+Number :  6
+
+Number :  56
+
+Addition of 6 and 56 is 62 
+
+Number :  67
+
+Subtraction of 62 and 67 is -5 
+ 
+Number :  34
+
+Number :  7
+
+Number :  11
+
+Number :  5
+
+Mod of 11 and 5 is 1
+
+Division of 7 and 1 is 7
+
+Multiplication of 34 and 7 is 238
+ 
+End of Main function
+Error: MAIN is missing in the program.
